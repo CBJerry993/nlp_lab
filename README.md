@@ -2,5 +2,5 @@
 
 ### 词向量
 
-使用gensim训练词向量
+[使用gensim训练词向量](https://github.com/CBJerry993/nlp_lab/tree/master/embedding/gensim_w2v)
 
