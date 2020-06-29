@@ -6,5 +6,5 @@
 
 ### 命名实体识别NER
 
-百度lac
+[百度lac](https://github.com/CBJerry993/nlp_lab/tree/master/tagging_ner/bd_lac)
 
