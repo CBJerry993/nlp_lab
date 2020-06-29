@@ -4,3 +4,7 @@
 
 [使用gensim训练词向量](https://github.com/CBJerry993/nlp_lab/tree/master/embedding/gensim_w2v)
 
+### 命名实体识别NER
+
+百度lac
+
