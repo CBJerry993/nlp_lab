@@ -36,4 +36,4 @@ def test_seg():
     print(seg_result)
 
 
-test_seg()
+test_lac()

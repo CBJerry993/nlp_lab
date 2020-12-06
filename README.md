@@ -8,3 +8,7 @@
 
 [百度lac](https://github.com/CBJerry993/nlp_lab/tree/master/tagging_ner/bd_lac)
 
+### Bert实操
+
+- [情感分析](https://github.com/CBJerry993/sentiment_bert)
+
